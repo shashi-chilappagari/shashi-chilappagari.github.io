@@ -65,6 +65,15 @@ Something like how I want my typical day to look
    Make sure to write the blog simulatneoulsy. As the saying goes
    >Kill two birds with one stone
 
+I just learnt that it is possible to have soft breaks. The above itinerary could have been formatted much better. Maybe tomorrow's schedule will look better
+1. Go to a morning walk  
+Try to find some place which has 3 mils of walking trail.
+2. Call my friends  
+See if they want to join you for lunch
+3. Take a _siesta_  
+Don't tell the **wife**
+
+
 
 
 [wikilink]:https://en.wikipedia.org/wiki/Main_Page
