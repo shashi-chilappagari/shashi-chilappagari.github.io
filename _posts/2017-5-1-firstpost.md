@@ -1,6 +1,8 @@
 ---
 layout: post
+comments: true
 title:  "Learning Markdown!"
+excerpt: "A small self study exercise to help in blogging"
 date:   2017-05-02 
 categories: blog post update
 ---
