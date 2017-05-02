@@ -23,6 +23,8 @@ With the basics out of the way, I started learning how to add links. Linking is 
 
 If there are multiple places which lead to the same link, we can give it a tag and refer the tag only once. The obvious advantage being if the common link changes, we need to change it only once. For example, if I keep on referring to [Wikipedia] [wikilink], multiple times in a document, I can just add the link once.
 
-We can of course add images. Once we know how to add links, images are pretty much the same. Here is a picture depicting the Pythagoras theorem from [Pixabay](https://pixabay.com/). ![Pythagoras Theorem](https://cdn.pixabay.com/photo/2016/09/04/18/02/blackboard-1644744_1280.png)
+We can of course add images. Once we know how to add links, images are pretty much the same. Here is a picture depicting the Pythagoras theorem from [Pixabay](https://pixabay.com/). 
+
+![Pythagoras Theorem](https://cdn.pixabay.com/photo/2016/09/04/18/02/blackboard-1644744_1280.png)
 
 [wikilink]:https://en.wikipedia.org/wiki/Main_Page
