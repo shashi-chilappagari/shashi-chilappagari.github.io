@@ -24,4 +24,5 @@ With the basics out of the way, I started learning how to add links. Linking is 
 If there are multiple places which lead to the same link, we can give it a tag and refer the tag only once. The abvious advantage being if the common link changes, we need to change it only once. For example, if I keep on refrring to [Wikipedia] [wikilink], multipl times in a document, I can just add the link once.
 
 After links, the obvious candidate is adding images. 
+
 [wikilink]: https://en.wikipedia.org/wiki/Main_Page
