@@ -30,4 +30,22 @@ We can of course add images. Once we know how to add links, images are pretty mu
 One feature that I love about markdown is how it allows the usage of block quotes. I am currently reading _The Book of Joy_ by _His Holiness the_ **Dalai Lama**, _Archbishop_ **Desmond Tutu** with Douglas Abrams. The Dalai Lama quoted the below Tibetean saying.
 >"Wherever you have friends that's your country, and wherever you receive love, that's your home"
 
+What a great man and what a wonderful saying!. I suggest everyone to read this wonderful book. 
+
+Creating lists is a very important aspect of blogging. For example, I was out grocery shopping today and would have benefited from having the below list.
+* Milk
+* Cereal
+* Yogurt
+* Instant coffee
+I know what you are thinking. How can this person drink instant coffee? It is actually not tha bad. I am not in the mood to shell out some money to buy a coffee machine. 
+
+Unordered lists are fine but we also need numbered list. For example, somone might be wondering what does one need to go on a sabbatical. They need to look at the list below.
+1. Some cash reserves: depending on the time
+2. A set of good problems to work on
+3. A set of new things to learn
+4. A set of good books to read
+5. A supporting family
+Obviously, the list is no particular order:)
+
+
 [wikilink]:https://en.wikipedia.org/wiki/Main_Page
