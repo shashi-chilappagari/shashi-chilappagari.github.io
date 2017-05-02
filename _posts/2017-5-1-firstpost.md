@@ -54,16 +54,16 @@ It looks like we can have paragraphs within lists. This is a good feature if we 
 Something like how I want my typical day to look
 1. Go to a morning walk
 
- Today, I should remmeber to check out a new place.
+   Today, I should remmeber to check out a new place.
  
 2. Buy groceries
 
- _Do not_ forget the **coffee**!!!
+   _Do not_ forget the **coffee**!!!
  
 3. Learn markdown
 
- Make sure to write the blog simulatneoulsy. As the saying goes
- >Kill two birds with one stone
+   Make sure to write the blog simulatneoulsy. As the saying goes
+   >Kill two birds with one stone
 
 
 
