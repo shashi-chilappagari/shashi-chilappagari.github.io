@@ -27,4 +27,7 @@ We can of course add images. Once we know how to add links, images are pretty mu
 
 ![Pythagoras Theorem](https://cdn.pixabay.com/photo/2016/09/04/18/02/blackboard-1644744_1280.png)
 
+One feature that I love about markdown is how it allows the usage of block quotes. I am currently reading _The Book of Joy_ by _His Holiness the_ **Dalai Lama**, _Archbishop_ **Desmond Tutu** with Douglas Abrams. The Dalai Lama quoted the below Tibetean saying.
+>"Wherever you have friends that's your country, and wherever you receive love, that's your home"
+
 [wikilink]:https://en.wikipedia.org/wiki/Main_Page
