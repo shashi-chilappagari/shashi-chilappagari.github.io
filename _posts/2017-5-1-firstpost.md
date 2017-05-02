@@ -37,6 +37,7 @@ Creating lists is a very important aspect of blogging. For example, I was out gr
 * Cereal
 * Yogurt
 * Instant coffee
+
 I know what you are thinking. How can this person drink instant coffee? It is actually not tha bad. I am not in the mood to shell out some money to buy a coffee machine. 
 
 Unordered lists are fine but we also need numbered list. For example, somone might be wondering what does one need to go on a sabbatical. They need to look at the list below.
@@ -45,7 +46,25 @@ Unordered lists are fine but we also need numbered list. For example, somone mig
 3. A set of new things to learn
 4. A set of good books to read
 5. A supporting family
+
 Obviously, the list is no particular order:)
+
+It looks like we can have paragraphs within lists. This is a good feature if we want to add some explanations to list items.
+
+Something like how I want my typical day to look
+1. Go to a morning walk
+
+ Today, I should remmeber to check out a new place.
+ 
+2. Buy groceries
+
+ _Do not_ forget the **coffee**!!!
+ 
+3. Learn markdown
+
+ Make sure to write the blog simulatneoulsy. As the saying goes
+ >Kill two birds with one stone
+
 
 
 [wikilink]:https://en.wikipedia.org/wiki/Main_Page
