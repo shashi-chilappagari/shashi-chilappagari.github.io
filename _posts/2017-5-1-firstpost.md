@@ -21,6 +21,6 @@ After making things bold and italicized, I am moving onto to headers and how to 
 
 With the basics out of the way, I started learning how to add links. Linking is a very important aspect. This tutorial is from [Markdown Tutorial](http://www.markdowntutorial.com/). This whole thing is **really** fascinating as I get to learn a lot. It looks like links can be added in headings too, so I will try that out later. 
 
-If there are multiple places which lead to the same link, we can give it a tag and refer the tag only once. The abvious advantage being if the common link changes, we need to change it only once. For example, if I keep on refrring to [Wikipedia] [wikilink], multiple times in a document, I can just add the link once.
+If there are multiple places which lead to the same link, we can give it a tag and refer the tag only once. The obvious advantage being if the common link changes, we need to change it only once. For example, if I keep on refrring to [Wikipedia] [wikilink], multiple times in a document, I can just add the link once.
 
 [wikilink]: https://en.wikipedia.org/wiki/Main_Page
