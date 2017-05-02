@@ -67,7 +67,7 @@ Something like how I want my typical day to look
 
 I just learnt that it is possible to have soft breaks. The above itinerary could have been formatted much better. Maybe tomorrow's schedule will look better
 1. Go to a morning walk  
-Try to find some place which has 3 mils of walking trail.
+Try to find some place which has 3 miles of walking trail.
 
 2. Call my friends  
 See if they want to join you for lunch
@@ -75,6 +75,7 @@ See if they want to join you for lunch
 3. Take a _siesta_  
 Don't tell the **wife**
 
+Looks like that is the end of the basic features of markdown. Good enough to start serious blogging (links, lists, images, quotes, italics, bold, headers). Will learn more about advanced features soon. 
 
 
 
