@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Learning Javascript!"
 excerpt: "Learning to build Quizzes using Javascript"
-date:   2017-05-02 
+date:   2017-05-03 9:37PM
 categories: blog post update
 ---
 ## An Introduction to Javascript
